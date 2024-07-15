@@ -1,0 +1,1 @@
+sudo service chrome-remote-desktop start
